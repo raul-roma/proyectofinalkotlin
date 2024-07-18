@@ -125,4 +125,4 @@ En Kotlin, se puede declarar una variable que permita valores nulos utilizando e
 [sesion2](https://github.com/raul-roma/proyectofinalkotlin/tree/main/sesion2)
 [sesion3](https://github.com/raul-roma/proyectofinalkotlin/tree/main/sesion3)
 [sesion4](https://github.com/raul-roma/proyectofinalkotlin/tree/main/sesion4)
-[EjerciciosDelProfesor]
+[EjerciciosDelProfesor](https://github.com/raul-roma/proyectofinalkotlin/tree/main/EjeciciosDelProfesor)
